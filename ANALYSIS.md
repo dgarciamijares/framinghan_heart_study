@@ -96,8 +96,7 @@ Ethical concerns in this analysis include the potential for bias and overmedicat
 
 The logistic regression model provides a useful tool for predicting the 10-year CHD risk and assisting in medication decisions. By carefully considering significant risk factors and ethical implications, healthcare providers can make informed decisions to improve patient outcomes.
 
-For more details refer to [IEOR - Framinghan Heart Study](IEOR - Framinghan Heart Study.ipynb)
-
+For more details - see the (`IEOR - Framinghan Heart Study.ipynb`) file.
 ## Appendix
 
 ### Code for Logistic Regression Model
