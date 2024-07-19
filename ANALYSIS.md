@@ -77,7 +77,7 @@ The expected economic cost per patient, considering the treatment decision, was 
 
 The ROC curve provides valuable insights into the model's performance and helps decision-makers select optimal thresholds for prescribing medication.
 
-![ROC Curve](../images/roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 The ROC curve provides valuable information to decision-makers:
 
