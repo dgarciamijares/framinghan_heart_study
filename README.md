@@ -22,6 +22,15 @@ This project involves analyzing data from the Framingham Heart Study to predict 
 - `framingham_train.csv`: Training data used for building the logistic regression model.
 - `framingham_test.csv`: Test data used for evaluating the model.
 
+## Technologies Used
+
+- **Python**:
+  - **Pandas**: For data manipulation and analysis.
+  - **Statsmodels**: For building the logistic regression model.
+  - **Scikit-learn**: For model evaluation and metrics.
+  - **Matplotlib**: For plotting the ROC curve and other visualizations.
+- **Jupyter Notebook**: For interactive coding and documenting the analysis.
+
 ## How to Use
 
 1. Clone the repository.
