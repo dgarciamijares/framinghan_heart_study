@@ -59,11 +59,11 @@ The model identified the following significant risk factors for 10-year CHD risk
 
 ### Threshold for Prescribing Medication
 
-To determine the optimal strategy for prescribing medication, we calculated a threshold value \( \bar{p} \) such that medication should be prescribed if the predicted CHD risk exceeds \( \bar{p} \). The calculated threshold was \( \bar{p} = 0.1307 \).
+To determine the optimal strategy for prescribing medication, we calculated a threshold value p such that medication should be prescribed if the predicted CHD risk exceeds p. The calculated threshold was p = 0.1307.
 
 ### Model Performance on Test Set
 
-Using the threshold \( \bar{p} = 0.1307 \), we evaluated the model's performance on the test set:
+Using the threshold p = 0.1307, we evaluated the model's performance on the test set:
 
 - **Accuracy**: 0.6202
 - **True Positive Rate (TPR)**: 0.7063
